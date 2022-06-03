@@ -1,3 +1,4 @@
 github TEST1
 git TEST BBBBB
 git_home
+git_school
